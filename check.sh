@@ -1,8 +1,8 @@
 #!/bin/bash
 NEED='@'
 
-DIR=https://github.com/humfr3y/bashwalker/blob/main/walk.txt
-RESET=https://github.com/humfr3y/bashwalker/blob/main/reset.txt
+DIR=https://github.com/humfr3y/bashwalker/blob/main/walk.txt #change links
+RESET=https://github.com/humfr3y/bashwalker/blob/main/reset.txt #change link
 
 WAY=(99 98 97 96 95) # UP DOWN LEFT RIGHT CENTER(@)
 
